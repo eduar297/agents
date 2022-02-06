@@ -209,7 +209,7 @@ que es usada en app/Main.hs
 
 #### Ejemplo de corrida del código
 
-![image-20220206130156546](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220206130156546.png)
+![](./img.png)
 
 
 
